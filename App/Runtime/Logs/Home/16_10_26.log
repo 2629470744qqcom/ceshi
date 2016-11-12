@@ -1,0 +1,128 @@
+[ 2016-10-26T14:33:36+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T14:33:41+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T14:33:43+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T14:35:33+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T14:35:34+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-26T14:35:34+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-26T14:35:35+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-10-26T14:35:35+08:00 ] ::1 /ceshi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature D:\project\wamp\www\ceshi\App\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

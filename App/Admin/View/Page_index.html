@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <thead>
+    <tr>
+        <th>序号</th>
+        <th>姓名</th>
+        <th>年龄</th>
+    </tr>
+    </thead>
+    <tbody>
+    <volist name="list" id="v">
+    <tr>
+        <td>{$i}</td>
+        <td>{$v.name}</td>
+        <td>{$v.age}</td>
+    </tr>
+    </volist>
+    </tbody>
+</table>
+{$page}
+</body>
+</html>
